@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="47a5ddf0-c087-4c46-9980-9ae0eb38fbe0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/bin/Snake/GamePanel$MyKeyAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Snake/GamePanel$MyKeyAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Snake/GamePanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Snake/GamePanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Snake/GamePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Snake/GamePanel.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MpWyo4EdS1oocpqTtPyd9dN7JL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Unnamed (1)">
+    <configuration name="Unnamed (1)" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SnakeGame" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Unnamed (1)" />
+      <item itemvalue="Application.Unnamed" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47a5ddf0-c087-4c46-9980-9ae0eb38fbe0" name="Changes" comment="" />
+      <created>1678465262880</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678465262880</updated>
+    </task>
+    <servers />
+  </component>
+</project>
